@@ -6,6 +6,3 @@ The original EPA Terminal (made by Decayed Team @ https://decayed-team.com) has 
 
 When running the console, please make sure that the zip file it came in has been extracted, otherwise it may not run properly.
 The code for this project is Public Domain, and you are free to change, modify, redistribute etc. without any credit given to me (Casual), although it is very appreciated if you do.
-
-
-Thanks for installing, and thanks to you for being a part of this!
